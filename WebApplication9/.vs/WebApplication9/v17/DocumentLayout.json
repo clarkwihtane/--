@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\models\\effortdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\models\\effortdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\models\\employee_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\models\\employee_project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\controllers\\effortcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\controllers\\effortcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\controllers\\employee_projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\controllers\\employee_projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\models\\employee_projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\models\\employee_projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\models\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\models\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\models\\effort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\models\\effort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Migrations\\ProjectDb\\20240906113717_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication9\\Migrations\\ProjectDb\\20240906113717_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\migrations\\effortdb\\20240906130214_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\migrations\\effortdb\\20240906130214_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\migrations\\employee_projectdb\\20240906130116_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\migrations\\employee_projectdb\\20240906130116_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\migrations\\projectdb\\20240906125621_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\migrations\\projectdb\\20240906125621_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|c:\\users\\dilan\\source\\repos\\webapplication9\\webapplication9\\migrations\\20240906125114_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6928E43-03CD-45D4-9710-E39AEB899412}|WebApplication9\\WebApplication9.csproj|solutionrelative:webapplication9\\migrations\\20240906125114_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Program.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Program.cs",
+              "RelativeToolTip": "WebApplication9\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:21:51.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplication9\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:44:10.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication9\\appsettings.json",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\appsettings.json",
+              "RelativeToolTip": "WebApplication9\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T11:19:59.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication9\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:18:40.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EffortDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\EffortDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Models\\EffortDbContext.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\EffortDbContext.cs",
+              "RelativeToolTip": "WebApplication9\\Models\\EffortDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:23:27.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee_Project.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\Employee_Project.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Models\\Employee_Project.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\Employee_Project.cs",
+              "RelativeToolTip": "WebApplication9\\Models\\Employee_Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:22:34.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\Project.cs",
+              "RelativeToolTip": "WebApplication9\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:17:25.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EffortController.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Controllers\\EffortController.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Controllers\\EffortController.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Controllers\\EffortController.cs",
+              "RelativeToolTip": "WebApplication9\\Controllers\\EffortController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:08:57.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee_ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Controllers\\Employee_ProjectController.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Controllers\\Employee_ProjectController.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Controllers\\Employee_ProjectController.cs",
+              "RelativeToolTip": "WebApplication9\\Controllers\\Employee_ProjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:08:38.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "WebApplication9\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:45:22.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240906130214_init.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Migrations\\EffortDb\\20240906130214_init.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Migrations\\EffortDb\\20240906130214_init.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Migrations\\EffortDb\\20240906130214_init.cs",
+              "RelativeToolTip": "WebApplication9\\Migrations\\EffortDb\\20240906130214_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:02:14.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240906130116_init.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Migrations\\Employee_ProjectDb\\20240906130116_init.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Migrations\\Employee_ProjectDb\\20240906130116_init.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Migrations\\Employee_ProjectDb\\20240906130116_init.cs",
+              "RelativeToolTip": "WebApplication9\\Migrations\\Employee_ProjectDb\\20240906130116_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:01:16.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240906125621_init.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Migrations\\ProjectDb\\20240906125621_init.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Migrations\\ProjectDb\\20240906125621_init.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Migrations\\ProjectDb\\20240906125621_init.cs",
+              "RelativeToolTip": "WebApplication9\\Migrations\\ProjectDb\\20240906125621_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:56:22.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee_ProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\Employee_ProjectDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Models\\Employee_ProjectDbContext.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\Employee_ProjectDbContext.cs",
+              "RelativeToolTip": "WebApplication9\\Models\\Employee_ProjectDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:24:45.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\ProjectDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Models\\ProjectDbContext.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\ProjectDbContext.cs",
+              "RelativeToolTip": "WebApplication9\\Models\\ProjectDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:19:20.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240906125114_init.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Migrations\\20240906125114_init.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Migrations\\20240906125114_init.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Migrations\\20240906125114_init.cs",
+              "RelativeToolTip": "WebApplication9\\Migrations\\20240906125114_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:51:14.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Effort.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\Effort.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Models\\Effort.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Models\\Effort.cs",
+              "RelativeToolTip": "WebApplication9\\Models\\Effort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:21:27.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240906113717_Inital.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Migrations\\ProjectDb\\20240906113717_Inital.cs",
+              "RelativeDocumentMoniker": "WebApplication9\\Migrations\\ProjectDb\\20240906113717_Inital.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\WebApplication9\\WebApplication9\\Migrations\\ProjectDb\\20240906113717_Inital.cs",
+              "RelativeToolTip": "WebApplication9\\Migrations\\ProjectDb\\20240906113717_Inital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:37:17.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
